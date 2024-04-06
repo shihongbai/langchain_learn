@@ -8,7 +8,7 @@ from langchain.prompts.chat import (
     HumanMessagePromptTemplate
 )
 
-API_SECRET_KEY = "sk-zk2db737fb7225636d3444c99de64c78cdd66092248dd3d0"
+API_SECRET_KEY = "sk-zk2db737fb7225636d3444c99de6adasdasdasdqwrqt"
 BASE_URL = "https://flag.smarttrot.com/v1/"
 
 # 是指api密钥以及访问节点

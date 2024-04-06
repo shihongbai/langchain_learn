@@ -6,7 +6,7 @@ from langchain.llms import OpenAI
 from langchain.agents import AgentType
 
 os.environ["SERPAPI_API_KEY"] = '4745fc0739c5152f60255e7758298665b5ad47c49c3006bcfd1c3d209a98f57b'
-API_SECRET_KEY = "sk-zk2db737fb7225636d3444c99de64c78cdd66092248dd3d0"
+API_SECRET_KEY = "sk-zk2db737fb7225636d3444c99de6adasdasdasdqwrqt"
 BASE_URL = "https://flag.smarttrot.com/v1/"
 
 # 是指api密钥以及访问节点
